@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AllergySafe</string>
+    <string name="add">+</string>
+    <string name="ALLERGIES">ALLERGIES</string>
+    <string name="allergyinfo">allergyinfo</string>
+    <string name="allergy">ALLERGY</string>
+    <string name="save">SAVE</string>
+    <string name="detail">DETAIL</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="delete">DELETE</string>
+    <string name="title">Title</string>
 </resources>
